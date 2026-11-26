@@ -1,7 +1,7 @@
 # Grundlagen der Anwendungsentwicklung A4
 submitted by 108833
 
-##### Introduction to Pandas DataFrames - Replicating an article in Markdwon
+### Introduction to Pandas DataFrames - Replicating an article in Markdwon
 
 - **Required files**
     - *Pandas.ipynb*: contains the code to recreate the article using markdown
