@@ -1,4 +1,2 @@
-# Grundlagen der Anwendungsentwicklung A4
-
-Submitted by 108833
-
+# aufgabe4-108833
+Grundlagen der Anwendungsentwicklung A4
